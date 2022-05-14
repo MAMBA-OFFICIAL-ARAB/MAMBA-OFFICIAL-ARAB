@@ -1,0 +1,6 @@
+.vscode/*
+*.jpg
+test*
+*.enc
+*.back
+__pycache__*
