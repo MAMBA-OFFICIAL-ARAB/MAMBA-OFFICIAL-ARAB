@@ -2,7 +2,7 @@
 
 git clone https://github.com/MAMBA-OFFICIAL-ARAB/MAMBA-OFFICIAL-ARAB.git
 
-cd ./File-Encrypter/
+cd ./MAMBA-OFFICIAL-ARAB/
 
 pip install -r requirements.txt
 
